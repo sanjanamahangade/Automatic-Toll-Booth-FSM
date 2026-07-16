@@ -1,0 +1,17 @@
+  IDLE
+   │
+Vehicle Detected
+   ▼
+WAIT_PAY
+   │
+Payment Done
+   ▼
+OPEN
+   │
+Vehicle Passed
+   ▼
+CLOSE
+   │
+Gate Closed
+   ▼
+ IDLE
